@@ -1,0 +1,14 @@
+D:\UTE2\OOP\22110393\Assignment\bin\Debug\net7.0\Assignment.exe
+D:\UTE2\OOP\22110393\Assignment\bin\Debug\net7.0\Assignment.deps.json
+D:\UTE2\OOP\22110393\Assignment\bin\Debug\net7.0\Assignment.runtimeconfig.json
+D:\UTE2\OOP\22110393\Assignment\bin\Debug\net7.0\Assignment.dll
+D:\UTE2\OOP\22110393\Assignment\bin\Debug\net7.0\Assignment.pdb
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfoInputs.cache
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfo.cs
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.csproj.CoreCompileInputs.cache
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.dll
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\refint\Assignment.dll
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.pdb
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\Assignment.genruntimeconfig.cache
+D:\UTE2\OOP\22110393\Assignment\obj\Debug\net7.0\ref\Assignment.dll
